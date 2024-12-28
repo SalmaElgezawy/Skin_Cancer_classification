@@ -1,4 +1,4 @@
-Skin Cancer Classification with CNN and Tabular Data Integration
+# Skin Cancer Classification with CNN and Tabular Data Integration
 
 This repository contains a comprehensive deep learning project for classifying skin cancer using the HAM10000 dataset, which combines image-based and tabular data inputs to achieve accurate predictions. The project involves extensive preprocessing, model building, and deployment.
 
@@ -30,7 +30,7 @@ By choosing this project, the goal is to contribute to the field of medical AI w
 
 ## Dataset
 
-The project uses the HAM10000 dataset from Kaggle: [HAM10000 Dataset](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000).
+The project uses the HAM10000 dataset from Kaggle: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
 ### Dataset Highlights:
 
