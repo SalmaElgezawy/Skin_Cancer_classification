@@ -127,7 +127,7 @@ Screenshots of the web app are included in the repository.
 - **Challenge**: Small dataset size leading to overfitting.
 - **Solution**: Regularization, dropout, and early stopping.
 
-## Usage Instructions
+## Runing
 
 1. Clone the repository.
 2. Install dependencies using `requirements.txt`.
