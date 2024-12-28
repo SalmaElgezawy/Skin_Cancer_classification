@@ -95,9 +95,9 @@ The outputs of the image and tabular branches are concatenated and passed throug
 
 The model was trained for 100 epochs with the following results:
 
-- **Train Accuracy**: 77.40%
-- **Validation Accuracy**: 72.24%
-- **Test Accuracy**: 72.69%
+- **Train Accuracy**: 76.81%
+- **Validation Accuracy**: 72.49%
+- **Test Accuracy**: 71.64%
 
 Evaluation metrics include:
 
@@ -110,7 +110,7 @@ Visualizations include training/validation loss and accuracy curves.
 
 The model was deployed as a web application with a simple user interface:
 
-- **Frontend**: HTML, CSS, JavaScript.
+- **Frontend**: Flask, Python.
 - **Features**: Upload an image for skin lesion prediction.
 
 Screenshots of the web app are included in the repository.
